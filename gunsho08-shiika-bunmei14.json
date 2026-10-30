@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shiikaawase-bunmei14",
  "yomi": "ぶんめいじゅうよねんくがつにじゅうはちにちしいかあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "詩歌合（三十六番）",
+  "era": "文明14年（1482）9月28日",
+  "author": "未詳",
+  "desc": "山中紅葉などの題で、漢詩と和歌を三十六番に番えた詩歌合。詩は源通秀・禅僧ら、歌は女房（御製）・実隆・甘露寺親長らが詠む。"
+ },
  "editions": [
   {
    "pid": "1879502",
